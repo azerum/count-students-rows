@@ -14,7 +14,7 @@ GGBGGBBBG
 The task is to compute how many legal rows exists for `n` - number of 
 students in a row
 
-For example, for `n=3`, there are 6 legal rows:
+For example, for `n=3`, there are 7 legal rows:
 ```
 GGG
 BGG
@@ -22,7 +22,10 @@ GBG
 GGB
 BBG
 GBB
+BGB
 ```
 
 The repository presents multiple solutions, from worst to best. 
 Run individual scripts using `node`
+
+TODO: Explain solution ideas
