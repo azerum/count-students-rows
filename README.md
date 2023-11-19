@@ -1,5 +1,4 @@
-There are infinite number of students, boys and girls. 
-Your task is to arrange them into row, such that no 3 boys stand
+Your task is to arrange studends - boys and girls, into a row, such that no 3 boys stand
 together. 
 
 For example (B - boy, G - girl), the following row is legal:
@@ -25,7 +24,7 @@ GBB
 BGB
 ```
 
-The repository presents multiple solutions, from worst to best. 
-Run individual scripts using `node`
+The repository presents multiple solutions, from worst to best. Run individual scripts using `node`
 
-TODO: Explain solution ideas
+## TODO
+- Explain solution ideas
